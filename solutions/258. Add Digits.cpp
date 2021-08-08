@@ -10,7 +10,7 @@ public:
                 k/=10;
             }
             num=ans;
-        }
+        }
         return num;
     }
 };
