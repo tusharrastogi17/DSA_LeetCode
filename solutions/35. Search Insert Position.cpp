@@ -10,7 +10,6 @@ public:
             if(nums[i]==target){
                 r=i;
                 break;
-               cout<<i;
             }
             if(nums[i]<target){
                 r=i+1;
